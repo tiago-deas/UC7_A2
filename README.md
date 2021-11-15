@@ -1,6 +1,6 @@
 # UC7_Senai
-Repositório da unidade 7 do curso de Desenvolvedor Full Stack do Senai
-Arquivo Readme criado de acordo com a Atividade 1 para simular uma alteração feita por outro programador!
+Repositório da unidade 7 do curso de Desenvolvedor Full Stack do Senai.
+Arquivo Readme criado de acordo com a Atividade 1 para simular uma alteração feita por outro programador.
 1º Criei um arquivo git no repositório local com o comando "git init";
 2º Criei um arquivo de texto no VS Code para o repositório local;
 3º Adicionei o arquivo para a área de stating com "git add .";
