@@ -9,7 +9,13 @@ Arquivo Readme criado de acordo com a Atividade 1 para simular uma alteração f
 6º Criei um repositório remoto no Github.
 7º Adicionei o repositório do Github no Git através do comando "git remote add origin (link do repositório remoto);
 8º Transferi os arquivos do repositório local para o remoto através de "git push -u origin master;
-9º modifiquei o meu arquivo no repositório local;
-10º Criei um arquivo Readme no repositório remoto simulando o trabalho de outro programador;
-11º Fiz um pull para atualizar meu repositório local no GIT com o novo arquivo Readme que outro programador fez através do comando "git pull";   
-12º Fiz outro push para adiconar as novas alterações que fiz no arquivo do repositório local.
+9º Criei um arquivo Readme no repositório remoto simulando o trabalho de outro programador;
+10º Fiz um pull para atualizar meu repositório local no GIT com o novo arquivo Readme que outro programador fez através do comando "git pull"; 
+11º Criei um novo aqruvivo no VS Code para ser adicionado em uma nova branch;
+12º Criei uma nova branch com o comando "git checkout -b (nome da branch);
+13º Fiz um "git add ." para adicionar o novo arquivo nessa nova branch;
+14º Fiz um "git status" para visualizar se o novo arquivo estava no staging;
+15º Fiz um "git commit -m "mensagem" para slavar o novo arquivo na nova branch no repositório local do GIT;
+16º Realizei um "git checkout master" para voltar para o trunk do repositório local;
+17º Fiz um "git merge (nova branch) para juntar a nova branch com o trunk do projeto;
+18º Por útlimo fiz outro push para adiconar as novas alterações feitas no repositório local do GitHub.
