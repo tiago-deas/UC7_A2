@@ -11,3 +11,5 @@ Arquivo Readme criado de acordo com a Atividade 1 para simular uma alteração f
 8º Transferi os arquivos do repositório local para o remoto através de "git push -u origin master;
 9º modifiquei o meu arquivo no repositório local;
 10º Criei um arquivo Readme no repositório remoto simulando o trabalho de outro programador;
+11º Fiz outro push para adiconar as novas alterações que fiz no arquivo do repositório local;
+12º Por último fiz um pull para atualizar meu repositório local no GIT com o novo arquivo Readme que outro programador fez através do comando "git pull".
